@@ -1,6 +1,6 @@
 
 
-This project demonstrates the detection of infected class of malarial images using AutoEncoders. The project sorts entire images as either normal or infected by utilizing both the reconstruction error and kernel density estimation based on vectors in the latent space. The bottleneck layer output from the autoencoder is considered the latent space.
+This project demonstrates the detection of infected class of malarial images using AutoEncoders. The project sorts entire images as either normal or infected. The bottleneck layer output from the autoencoder is considered the latent space.
 
 The code uses the malarial dataset but can be easily applied to other applications.
 
